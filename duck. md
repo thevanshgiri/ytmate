@@ -1,3 +1,8 @@
 when you fix the fuckup you did in your laptop
 try to rename the video file something short when downloading playlist cause it is causing trouble with the Taylor swift songs
 and then name of each file and after all is downloaded just rename them by reading the log file and running sbp.run commands
+
+yea so this problem that downloader is not working, got it figured out,
+the problem was the setup file requires input from the user and hence just running it as normal function caused it to be ineffctive
+
+still i dont know whats working, but i dont have time to dissect the problem now so will be back.
